@@ -1,5 +1,6 @@
 //
 // This file contains the definition of the max heap class
+// Did more revisions of the comments on 9-8-2014.
 //
 
 #include "stdafx.h"
